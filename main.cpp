@@ -310,7 +310,7 @@ int main(int argc, char** argv) {
         uint32_t width = 640;
         uint32_t height = 360;
         uint32_t fps = 30;
-        uint32_t seconds = 1;
+        uint32_t seconds = 5;
         int quality = 85;
 
         // Simple CLI override: program [out.avi] [width] [height] [fps] [seconds] [quality]
